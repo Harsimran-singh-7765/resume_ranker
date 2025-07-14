@@ -1,0 +1,5 @@
+flask
+PyMuPDF
+spacy
+scikit-learn
+pandas

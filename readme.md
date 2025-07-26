@@ -50,7 +50,7 @@ The entire solution is wrapped in a lightweight web interface using **Flask**, m
 
 4. **Result Display:**  
    The ranked results are displayed on a simple Flask-powered web interface showing match scores for each resume.
-
+![alt text](image-1.png)
 ---
 
 ##  Outcomes

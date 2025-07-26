@@ -75,8 +75,6 @@ The entire solution is wrapped in a lightweight web interface using **Flask**, m
 
 **Harsimran Singh**  
 AI/ML Intern – ElevateLabs  
- [your.email@example.com]  
-🔗 [LinkedIn or GitHub profile if you want]
 
 ---
 
